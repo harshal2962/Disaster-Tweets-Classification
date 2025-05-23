@@ -18,10 +18,7 @@ In the early moments of a disaster, Twitter is often the first source of informa
 >❌ Not a Disaster: "My phone died… total disaster 😩"
 
 🧪 Models Compared
-Model           	Accuracy	   Comments-
->Regression      	66–68%	     Fails on context & sarcasm
->Neural Network	  73%	         Misses word sequence understanding
->BERT	            F1 = 0.82	   Best for contextual understanding, but resource-heavy
+![image](https://github.com/user-attachments/assets/8acad2e0-5789-47c1-a7cf-50e63d3d4db6)
 
 🤖 Why BERT?
 >📌 Handles negation & sarcasm effectively
