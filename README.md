@@ -56,12 +56,12 @@ Model           	Accuracy	   Comments-
 
 📂 Project Structure
 .
-├── data/                    # Labeled tweet dataset
-├── preprocessing/           # Cleaning & tokenization scripts
-├── models/                  # BERT and baseline models
-├── notebooks/               # EDA and experimentation
-├── README.md
-└── requirements.txt
+>├── data/                    # Labeled tweet dataset
+>├── preprocessing/           # Cleaning & tokenization scripts
+>├── models/                  # BERT and baseline models
+>├── notebooks/               # EDA and experimentation
+>├── README.md
+>└── requirements.txt
 
 🧠 Key Takeaways
 >BERT achieves superior classification through transfer learning and contextual awareness.
